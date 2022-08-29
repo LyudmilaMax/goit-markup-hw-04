@@ -33,6 +33,9 @@ ol {
   margin-bottom: 0;
   padding-left: 0;
 }
+a {
+  text-decoration: none;
+}
 img {
   display: block;
 }
@@ -378,6 +381,7 @@ body {
   background: var(--background-basic);
   border-top: none;
   border: 1px solid var(--boorder-color-card);
+
 }
 
 .img-card-link {
