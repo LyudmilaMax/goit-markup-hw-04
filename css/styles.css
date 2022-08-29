@@ -109,6 +109,7 @@ body {
   line-height: 1.14;
   letter-spacing: 0.02em;
   color: var(--main-text-color-dark);
+
 }
 .link:hover,
 .link:focus {
@@ -311,7 +312,7 @@ body {
   width: 44px;
   height: 44px;
   border-radius: 50%;
-  background-color: var(--background-basic);
+    background-color: var(--background-basic);
 }
 
 .social-list-link:hover,
@@ -417,6 +418,7 @@ body {
 
 .clients-link:hover,
 .clients-link:focus {
+  color: var(--accent-color-icon) ;
   border-color: var(--accent-color-icon);
 }
 
