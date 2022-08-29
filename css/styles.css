@@ -417,7 +417,6 @@ body {
 
 .clients-link:hover,
 .clients-link:focus {
-  color: var(--accent-color-icon);
   border-color: var(--accent-color-icon);
 }
 
